@@ -1,0 +1,16 @@
+/*!
+	Theme Name: Fast Resume and Cover Letters 2019
+	Theme URI: https://resumefast.com
+	Author: Timothy Looper
+	Author URI: https://timothylooper.com
+*/
+*, *::before, *::after {
+  box-sizing: border-box; }
+
+::-webkit-scrollbar, -ms-scrollbar, -mos-scrollbar {
+  width: 0px;
+  background: transparent; }
+
+h1, h2, h3, h4 {
+  padding: 0;
+  margin: 0; }
